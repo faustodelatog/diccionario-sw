@@ -39,6 +39,13 @@
     "threat modeling": [
         "modelo de amenazas"
     ],
+    "build": [
+        "construcción"
+    ],
+    "release": [
+        "liberación",
+        "versión de lanzamientob"
+    ],
     "structured logging": [
         "logs estructurados"
         ]
