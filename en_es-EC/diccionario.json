@@ -1,4 +1,8 @@
 {
+    "api gateway": [
+        "puerta de enlace para (un/a) api",
+        "pasarela para (un/a) api"
+    ],
     "canary builds": [
         "canary builds"
     ],
