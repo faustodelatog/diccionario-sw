@@ -5,6 +5,9 @@
     "commit": [
         "suscribir"
     ],
+    "container": [
+        "contenedor"
+    ],
     "contract testing": [
         "pruebas de contrato"
     ],
@@ -15,6 +18,13 @@
     "deployment": [
         "despliegue"
     ],
+    "gateway": [
+        "puerta de enlace",
+        "pasarela"
+    ],
+    "logging": [
+        "registro de eventos"
+    ],
     "merge": [
         "unir",
         "fundir"
@@ -24,7 +34,13 @@
         ],
     "open-source": [
         "código libre"
-        ],
+    ],
+    "plugin": [
+        "complemento"
+    ],
+    "proxy": [
+        "proxy"
+    ],
     "rebase": [
         "cambiar la base"
     ],
