@@ -22,6 +22,11 @@
     "deployment": [
         "despliegue"
     ],
+    "edge case": [
+        "casos extremos",
+        "casos borde",
+        "casos de borde"
+    ],
     "gateway": [
         "puerta de enlace",
         "pasarela"
