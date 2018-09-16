@@ -3,6 +3,10 @@
         "puerta de enlace para (un/a) api",
         "pasarela para (un/a) api"
     ],
+    "asynchronous": [
+        "asincrónico",
+        "asíncrono"
+    ],
     "canary builds": [
         "canary builds"
     ],
