@@ -1,13 +1,4 @@
 {
-    "canary builds": [
-        "canary builds"
-    ],
-    "commit": [
-        "suscribir"
-    ],
-    "contract testing": [
-        "pruebas de contrato"
-    ],
     "deploy": [
         "desplegar",
         "despliegue"
@@ -15,22 +6,11 @@
     "deployment": [
         "despliegue"
     ],
-    "merge": [
-        "unir",
-        "fundir"
-    ],
     "microservices": [
         "microservicios"
-        ],
-    "open-source": [
-        "código libre"
-        ],
-    "rebase": [
-        "cambiar la base"
     ],
-    "stash": [
-        "esconder",
-        "guardar"
+    "open source": [
+        "código abierto"
     ],
     "test": [
         "prueba",
@@ -39,14 +19,79 @@
     "threat modeling": [
         "modelo de amenazas"
     ],
+    "compile": [
+        "compilar"
+    ],
     "build": [
-        "construcción"
+        "construir",
+        "construccion"
     ],
     "release": [
         "liberación",
-        "versión de lanzamientob"
+        "versión de lanzamiento",
+        "publicación"
     ],
-    "structured logging": [
-        "logs estructurados"
-        ]
+    "to releasew": [
+        "liberar",
+        "publicar"
+    ],
+    "micro frontends": [
+        "micro frontends"
+    ],
+    "continuous delivery": [
+        "entrega continua"
+    ],
+    "continuous integration": [
+        "integración continua"
+    ],
+    "machine learning": [
+        "aprendizaje automático"
+    ],
+    "API": [
+        "API"
+    ],
+    "mobile": [
+        "móvil"
+    ],
+    "mobile app": [
+        "aplicación móvil"
+    ],
+    "cloud": [
+        "nube"
+    ],
+    "cloud computing": [
+        "computación en la nube"
+    ],
+    "infrastructure as code": [
+        "infraestructura como código"
+    ],
+    "pipeline": [
+        "pipeline"
+    ],
+    "workflows": [
+        "flujos de trabajo"
+    ],
+    "framework": [
+        "marco de trabajo"
+    ],
+    "API gateway": [
+        "API gateway"
+    ],
+    "service mesh": [
+        "malla de servicios"
+    ],
+    "data mesh": [
+        "malla de datos"
+    ],
+    "natural language procesing": [
+        "procesamiento del lenguaje natural"
+    ],
+    "tooling": [
+        " herramientas",
+        "instrumentación (depende el contexto)"
+    ],
+    "Lift-and-shift": [
+        "Trasladar como en 'cloud lift-and-shift'",
+        "traslado a la nube"
+    ]
 }
