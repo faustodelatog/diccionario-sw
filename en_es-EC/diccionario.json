@@ -1,10 +1,26 @@
 {
+    "asynchronous": [
+        "asincrónico",
+        "asíncrono"
+    ],
+    "container": [
+        "contenedor"
+    ],
+    "edge case": [
+        "caso extremo"
+    ],
     "deploy": [
         "desplegar",
         "despliegue"
     ],
     "deployment": [
         "despliegue"
+    ],
+    "plugin": [
+        "complemento"
+    ],
+    "proxy": [
+        "proxy"
     ],
     "microservices": [
         "microservicios"
