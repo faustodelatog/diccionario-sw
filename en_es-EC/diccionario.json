@@ -102,5 +102,8 @@
     ],
     "cost": [
         "costo"
+    ],
+    "query": [
+        "consulta"
     ]
 }
