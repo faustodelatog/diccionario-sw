@@ -1,23 +1,13 @@
 {
-    "api gateway": [
-        "puerta de enlace para (un/a) api",
-        "pasarela para (un/a) api"
-    ],
     "asynchronous": [
         "asincrónico",
         "asíncrono"
     ],
-    "canary builds": [
-        "canary builds"
-    ],
-    "commit": [
-        "suscribir"
-    ],
     "container": [
         "contenedor"
     ],
-    "contract testing": [
-        "pruebas de contrato"
+    "edge case": [
+        "caso extremo"
     ],
     "deploy": [
         "desplegar",
@@ -26,40 +16,17 @@
     "deployment": [
         "despliegue"
     ],
-    "edge case": [
-        "casos extremos",
-        "casos borde",
-        "casos de borde"
-    ],
-    "gateway": [
-        "puerta de enlace",
-        "pasarela"
-    ],
-    "logging": [
-        "registro de eventos"
-    ],
-    "merge": [
-        "unir",
-        "fundir"
-    ],
-    "microservices": [
-        "microservicios"
-        ],
-    "open-source": [
-        "código libre"
-    ],
     "plugin": [
         "complemento"
     ],
     "proxy": [
         "proxy"
     ],
-    "rebase": [
-        "cambiar la base"
+    "microservices": [
+        "microservicios"
     ],
-    "stash": [
-        "esconder",
-        "guardar"
+    "open source": [
+        "código abierto"
     ],
     "test": [
         "prueba",
@@ -68,14 +35,79 @@
     "threat modeling": [
         "modelo de amenazas"
     ],
+    "compile": [
+        "compilar"
+    ],
     "build": [
-        "construcción"
+        "construir",
+        "construccion"
     ],
     "release": [
         "liberación",
-        "versión de lanzamientob"
+        "versión de lanzamiento",
+        "publicación"
     ],
-    "structured logging": [
-        "logs estructurados"
-        ]
+    "to releasew": [
+        "liberar",
+        "publicar"
+    ],
+    "micro frontends": [
+        "micro frontends"
+    ],
+    "continuous delivery": [
+        "entrega continua"
+    ],
+    "continuous integration": [
+        "integración continua"
+    ],
+    "machine learning": [
+        "aprendizaje automático"
+    ],
+    "API": [
+        "API"
+    ],
+    "mobile": [
+        "móvil"
+    ],
+    "mobile app": [
+        "aplicación móvil"
+    ],
+    "cloud": [
+        "nube"
+    ],
+    "cloud computing": [
+        "computación en la nube"
+    ],
+    "infrastructure as code": [
+        "infraestructura como código"
+    ],
+    "pipeline": [
+        "pipeline"
+    ],
+    "workflows": [
+        "flujos de trabajo"
+    ],
+    "framework": [
+        "marco de trabajo"
+    ],
+    "API gateway": [
+        "API gateway"
+    ],
+    "service mesh": [
+        "malla de servicios"
+    ],
+    "data mesh": [
+        "malla de datos"
+    ],
+    "natural language procesing": [
+        "procesamiento del lenguaje natural"
+    ],
+    "tooling": [
+        " herramientas",
+        "instrumentación (depende el contexto)"
+    ],
+    "Lift-and-shift": [
+        "Trasladar como en 'cloud lift-and-shift'",
+        "traslado a la nube"
+    ]
 }
