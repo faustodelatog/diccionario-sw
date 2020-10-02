@@ -109,5 +109,11 @@
     "Lift-and-shift": [
         "Trasladar como en 'cloud lift-and-shift'",
         "traslado a la nube"
+    ],
+    "data lake": [
+        "lago de datos"
+    ],
+    "cost": [
+        "costo"
     ]
 }
